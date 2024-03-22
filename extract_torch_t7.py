@@ -1,7 +1,7 @@
 import os
 import tensorflow as tf
 import numpy as np
-import pickle
+import cPickle as pickle
 import torchfile  # pip install torchfile
 
 import resnet
